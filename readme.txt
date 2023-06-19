@@ -1,4 +1,4 @@
-Welcome to my journey to attempt and upgrade the Kobra Plus firmware to later versions of Marlin.
+**Welcome to my journey to attempt and upgrade the Kobra Plus firmware to later versions of Marlin.**
 
 Trying to match up the code with the Marlin 2.0.0 release currently. 
 
